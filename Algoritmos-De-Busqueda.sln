@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-Lineal", "Busqueda-Lineal", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -18,6 +18,18 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-De-Objetos", "Busqueda-De-Objetos", "{53761CEE-F69A-4DBA-AD4A-99CE05E79DB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-De-Objetos", "Busqueda-De-Objetos\Busqueda-De-Objetos.csproj", "{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encontrar-Max-Min", "Encontrar-Max-Min", "{FF112EB5-6525-4F21-8EAC-1D8BBC0D34E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encontrar-Max-Min", "Encontrar-Max-Min\Encontrar-Max-Min.csproj", "{C11AF861-B6FE-495F-934B-EC2A65043CBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-Matriz2D", "Busqueda-Matriz2D", "{4A4FFF51-3BE4-4435-A2E2-0D27E03811FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-Matriz2D", "Busqueda-Matriz2D\Busqueda-Matriz2D.csproj", "{34F53638-3446-4AB6-85BC-1D09CD646215}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fallback", "Fallback", "{E304F441-9C86-46BB-8941-E34E73A58FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallback", "Fallback\Fallback.csproj", "{3ED25944-A4DA-44F9-9639-5D9D0793AAAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +53,18 @@ Global
 		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11AF861-B6FE-495F-934B-EC2A65043CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11AF861-B6FE-495F-934B-EC2A65043CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11AF861-B6FE-495F-934B-EC2A65043CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11AF861-B6FE-495F-934B-EC2A65043CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F53638-3446-4AB6-85BC-1D09CD646215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F53638-3446-4AB6-85BC-1D09CD646215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F53638-3446-4AB6-85BC-1D09CD646215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F53638-3446-4AB6-85BC-1D09CD646215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED25944-A4DA-44F9-9639-5D9D0793AAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED25944-A4DA-44F9-9639-5D9D0793AAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED25944-A4DA-44F9-9639-5D9D0793AAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED25944-A4DA-44F9-9639-5D9D0793AAAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +74,9 @@ Global
 		{33100034-CFB3-4686-AC41-A686E705544F} = {F1FB133F-E8FD-4387-A611-AC1EEBD8E9BA}
 		{6301E218-FF46-4E0B-82E0-8510E5753B07} = {19489AE2-12D3-4C0D-A300-7F8413BBE943}
 		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2} = {53761CEE-F69A-4DBA-AD4A-99CE05E79DB1}
+		{C11AF861-B6FE-495F-934B-EC2A65043CBA} = {FF112EB5-6525-4F21-8EAC-1D8BBC0D34E3}
+		{34F53638-3446-4AB6-85BC-1D09CD646215} = {4A4FFF51-3BE4-4435-A2E2-0D27E03811FF}
+		{3ED25944-A4DA-44F9-9639-5D9D0793AAAA} = {E304F441-9C86-46BB-8941-E34E73A58FCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66386063-2555-49C3-95D2-77EB9E55E0A5}
