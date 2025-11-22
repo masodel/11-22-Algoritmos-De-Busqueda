@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-Lineal", "Busqueda-Lineal", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-Lineal", "Busqueda-Lineal\Busqueda-Lineal.csproj", "{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-Binaria", "Busqueda-Binaria", "{F1FB133F-E8FD-4387-A611-AC1EEBD8E9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-Binaria", "Busqueda-Binaria\Busqueda-Binaria.csproj", "{33100034-CFB3-4686-AC41-A686E705544F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-De-Texto", "Busqueda-De-Texto", "{19489AE2-12D3-4C0D-A300-7F8413BBE943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-De-Texto", "Busqueda-De-Texto\Busqueda-De-Texto.csproj", "{6301E218-FF46-4E0B-82E0-8510E5753B07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Busqueda-De-Objetos", "Busqueda-De-Objetos", "{53761CEE-F69A-4DBA-AD4A-99CE05E79DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-De-Objetos", "Busqueda-De-Objetos\Busqueda-De-Objetos.csproj", "{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33100034-CFB3-4686-AC41-A686E705544F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33100034-CFB3-4686-AC41-A686E705544F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33100034-CFB3-4686-AC41-A686E705544F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33100034-CFB3-4686-AC41-A686E705544F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6301E218-FF46-4E0B-82E0-8510E5753B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6301E218-FF46-4E0B-82E0-8510E5753B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6301E218-FF46-4E0B-82E0-8510E5753B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6301E218-FF46-4E0B-82E0-8510E5753B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C04A7FC4-0F1B-4DFA-9FD0-1A6DD46C6B69} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{33100034-CFB3-4686-AC41-A686E705544F} = {F1FB133F-E8FD-4387-A611-AC1EEBD8E9BA}
+		{6301E218-FF46-4E0B-82E0-8510E5753B07} = {19489AE2-12D3-4C0D-A300-7F8413BBE943}
+		{6BFB0DCD-4EA9-4FB0-96AB-14DDDBCD8FF2} = {53761CEE-F69A-4DBA-AD4A-99CE05E79DB1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66386063-2555-49C3-95D2-77EB9E55E0A5}
+	EndGlobalSection
+EndGlobal
